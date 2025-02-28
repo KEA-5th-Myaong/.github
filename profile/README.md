@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/4ac0c361-1ca1-481e-8992-f346ddd7700e
 
 ## 🧑‍💻 Team
 
-| PM AI | BE PL | FE PL | BE | BE | BE | FE | FE |
+| PM AI | BE PL | FE PL | BE | BE | BE | FE Design | FE |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 최현준 | 강수진 | 김현중 | 김민형 | 양시훈 | 조기헌 | 곽서연 | 백지연 |
 | <img src="https://github.com/Spring-fox.png" width="100"> | <img src="https://github.com/1214sujin.png" width="100"> | <img src="https://github.com/kimgorok.png" width="100"> | <img src="https://github.com/strongmhk.png" width="100"> | <img src="https://github.com/sihun23.png" width="100"> | <img src="https://github.com/chogh824.png" width="100"> | <img src="https://github.com/yeonilil.png" width="100"> | <img src="https://github.com/BaekJiyeon02.png" width="100"> |
